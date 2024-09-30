@@ -3,19 +3,20 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+wriggle-nightbug
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+Wriggle Nightbug
 
 # description
 
-> This is the description of the feed.
+> 
 
-Cute animals feed
+All the coolest wriggle nightbug stuff posted on this site. The wriggle bugs may not be verified for sfw or not. Please be cautious Non-wrigglebugs may show themselves, pay them no mind. Artificial Insect 
+(AI) artists will be blocked. Please report them to me.
 
 # searchTerms
 
@@ -25,12 +26,16 @@ Cute animals feed
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- https://bsky.app/profile/wrigglenightbug.com/post/3l5fpskizhn2u
+- wriggle nightbug
+- リグル・ナイトバグ
+- リグルナイトバグ
+- wriggle touhou
+- wriggle 東方project
+- リグル 東方project
+- リグル 東方
+- https://bsky.app/profile/wrigglenightbug.com
+- https://bsky.app/profile/shanghai-alice.com
 
 # denyList
 
@@ -38,6 +43,7 @@ Cute animals feed
 >
 > - did:plc:1234
 > - @spamspamspam.bsky.social
+- https://bsky.app/profile/niwatoriobake.bsky.social
 
 # safeMode
 
@@ -51,4 +57,4 @@ true
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 
-![](avatar.png)
+![](wrigglenightbug.png)
